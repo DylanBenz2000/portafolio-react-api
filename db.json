@@ -5,7 +5,7 @@
         "descripcion": "Es un challenge que se realizo para Alura, para poner en practica nuestro conocimiento",
         "year": 2024,
         "role": "Front-End Developer",
-        "imagen": "https://imgur.com/fLzWwcw",
+        "imagen": "https://i.imgur.com/fLzWwcw.png",
         "demo": "https://dylanbenz2000.github.io/alura-midi/",
         "github": "https://github.com/DylanBenz2000/alura-midi"
       },
@@ -14,7 +14,7 @@
         "descripcion": "Es una App que sirve para concentrarse trabajando con el método pomodoro.",
         "year": 2024,
         "role": "Front-End Developer",
-        "imagen": "https://imgur.com/PXfd5kf",
+        "imagen": "https://i.imgur.com/PXfd5kf.png",
         "demo": "https://dylanbenz2000.github.io/focus-project/",
         "github": "https://github.com/DylanBenz2000/focus-project"
       },
@@ -23,7 +23,7 @@
         "descripcion": "Es un simulador de una 'tienda', en la cual puedes ir agregando tus productos.",
         "year": 2024,
         "role": "Front-End Developer",
-        "imagen": "https://imgur.com/jMAWh3R",
+        "imagen": "https://i.imgur.com/jMAWh3R.png",
         "demo": "https://galaxy-geek-crud.firebaseapp.com/",
         "github": "https://github.com/DylanBenz2000/geek-galaxy"
       },
@@ -32,7 +32,7 @@
         "descripcion": "Es un app para poder realizar notas de tus pendientes y también para saber cuando los has terminado",
         "year": 2024,
         "role": "Front-End Developer",
-        "imagen": "https://imgur.com/9QrSE6g",
+        "imagen": "https://i.imgur.com/9QrSE6g.png",
         "demo": "https://dylanbenz2000.github.io/gestor-de-tareas/",
         "github": "https://github.com/DylanBenz2000/gestor-de-tareas"
       }
