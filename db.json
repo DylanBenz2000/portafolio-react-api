@@ -35,6 +35,33 @@
         "imagen": "https://i.imgur.com/9QrSE6g.png",
         "demo": "https://dylanbenz2000.github.io/gestor-de-tareas/",
         "github": "https://github.com/DylanBenz2000/gestor-de-tareas"
+      },
+      {
+        "titulo": "App Podcast",
+        "descripcion": "App Podcast es una aplicación diseñada para los amantes del terror. Permite a los usuarios escuchar episodios del canal "Relatos de la noche", ofreciendo una experiencia inmersiva con historias aterradoras. La aplicación también incluye la funcionalidad de guardar episodios favoritos, permitiendo a los usuarios marcar y acceder fácilmente a sus relatos preferidos en cualquier momento.",
+        "year": 2024,
+        "role": "Front-End Developer",
+        "imagen": "https://i.imgur.com/jRKaGyb.png",
+        "demo": "https://app-podcast-c76d9o075-dylan-ramos-projects.vercel.app/",
+        "github": "https://github.com/DylanBenz2000/app-podcast"
+      },
+      {
+        "titulo": "Org",
+        "descripcion": "Org es una aplicación diseñada para gestionar equipos y colaboradores de manera eficiente. Incluye dos formularios: uno para agregar colaboradores, ingresando su nombre, puesto, foto y equipo; y otro para crear nuevos equipos. La aplicación presenta visualmente los equipos, como DevOps, Front End, Back End, entre otros, y muestra a todos los colaboradores asociados a cada equipo mediante tarjetas informativas, facilitando así la organización y gestión del personal.",
+        "year": 2024,
+        "role": "Front-End Developer",
+        "imagen": "https://i.imgur.com/UbqJ6SC.png",
+        "demo": "https://org-ndlie992j-dylan-ramos-projects.vercel.app/",
+        "github": "https://github.com/DylanBenz2000/org"
+      },
+      {
+        "titulo": "Space App",
+        "descripcion": "Space App es una aplicación que consume la API de la NASA para mostrar impresionantes fotos de galaxias, estrellas, lunas y nebulosas. Los usuarios pueden filtrar por estas categorías para encontrar rápidamente las imágenes deseadas y visualizar las fotos en tamaño completo. Además, la aplicación incluye un filtro de búsqueda que facilita la exploración de imágenes específicas, ofreciendo una experiencia completa y enriquecedora para los entusiastas del espacio.",
+        "year": 2024,
+        "role": "Front-End Developer",
+        "imagen": "https://i.imgur.com/4BfnntX.png",
+        "demo": "https://space-app-react-53j228zdk-dylan-ramos-projects.vercel.app/",
+        "github": "https://github.com/DylanBenz2000/space-app-react"
       }
     ],
     "certificados": [
